@@ -1,7 +1,6 @@
 ### Olá! Eu Sou Deivid Daniel👋
 
 
-- 🔭 Hoje Trabalho De Servente
 - 🌱 Estudando Front-End
 - 📫 Entre Em Contato No Email: Deivid693@outlook.com
 - 😄 Pronouns: Ele/Dele
