@@ -3,7 +3,7 @@
 
 - 🌱 Estudando Front-End
 - 📫 Entre Em Contato No Email: Deivid693@outlook.com
-- 😄 Pronouns: Ele/Dele
+
 
 <div align="center">
   <a href="https://github.com/dev-br18">
